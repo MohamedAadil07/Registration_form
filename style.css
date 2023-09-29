@@ -9,6 +9,11 @@ body{
     width: max-content;
 }
 
+h1{
+    margin: 0 0 20px 0;
+    font-family: 'Mooli', sans-serif;
+}
+
 .card{
     margin-top: 200px;
     margin-left: 100%;
@@ -17,7 +22,7 @@ body{
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 50vh;
+    height: 55vh;
     flex-direction: column;
     box-shadow:  10px 10px 40px black;
 }
